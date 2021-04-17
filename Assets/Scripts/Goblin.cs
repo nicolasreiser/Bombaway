@@ -9,6 +9,8 @@ public class Goblin : MonoBehaviour, IExplodingElement, IClickable
 
     [SerializeField]
     GameObject destroyedGoblin;
+    [SerializeField]
+    int KilledGoblinPoints;
 
     [Button]
     void Collect ()
@@ -23,6 +25,7 @@ public class Goblin : MonoBehaviour, IExplodingElement, IClickable
 
         if (destroyedGoblin != null)
             Instantiate(destroyedGoblin, transform.position, Quaternion.identity);
+        Score.Instance.AddKilledGoblin(KilledGoblinPoints);
 
         Destroy(gameObject);
     }

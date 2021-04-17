@@ -39,7 +39,9 @@ public class UIHandler : Singleton<UIHandler>
     {
         var bombs = GameObject.FindObjectsOfType<Bomb>();
 
-        ShowFinalScore(BombsAndGoblinsTracker.Instance.CollectedGoblins, BombsAndGoblinsTracker.Instance.TotalGoblins, bombs.Length, Score.Instance.Amount);
+
+        int finalScore = Timer.Instance.getTimeScore() + Score.Instance.Amount;
+        ShowFinalScore(BombsAndGoblinsTracker.Instance.CollectedGoblins, BombsAndGoblinsTracker.Instance.TotalGoblins, bombs.Length,finalScore);
     }
 
 

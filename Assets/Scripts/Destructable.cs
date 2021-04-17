@@ -19,7 +19,7 @@ public class Destructable : MonoBehaviour, IExplodingElement
             Instantiate(destructedVersion, transform.position, Quaternion.identity);
         }
 
-        Score.Instance.Add(scorePerExplode);
+        Score.Instance.AddBookShelves(scorePerExplode);
         Destroy(gameObject);
     }
 }

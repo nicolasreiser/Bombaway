@@ -1223,3 +1223,719 @@ Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.001524 seconds.
 Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.0 MB.
+System memory in use after: 130.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3671.
+Total: 2.446700 ms (FindLiveObjects: 0.338900 ms CreateObjectMapping: 0.157200 ms MarkObjects: 1.931700 ms  DeleteObjects: 0.018200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 564.642285 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4893d490ed24db1a8c0beb5eeb574223') in 0.069672 seconds
+  Import took 0.073931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.204371 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83c4f28e384aa009da22c2641ddd131a') in 0.019768 seconds
+  Import took 0.023605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.251680 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc0ef40a67580dc9b58bf17c04a74f5') in 0.019520 seconds
+  Import took 0.023450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.011214 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c479004174f803228f25fecce74848') in 0.019511 seconds
+  Import took 0.023913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.216833 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0f6c601763436065626eba6e9342ee9') in 0.021253 seconds
+  Import took 0.025267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.738908 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86a4b133f45e1664232c19e179dde52') in 0.019243 seconds
+  Import took 0.023180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.379545 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2543f07af0f5e901d8c82f62da2d7c12') in 0.020676 seconds
+  Import took 0.024885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.350389 seconds.
+  path: Assets/Sprites/background.png
+  artifactKey: Guid(b3d3ad396f46ccb488165b4b406c3659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/background.png using Guid(b3d3ad396f46ccb488165b4b406c3659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47352712ec52c4042dba49f3b9f28105') in 0.064524 seconds
+  Import took 0.068459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Sprites/bombBase.svg
+  artifactKey: Guid(ca94b568945d2c143a032d41a896efaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bombBase.svg using Guid(ca94b568945d2c143a032d41a896efaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '088668498eba74e4cc5d855fc4d75782') in 0.135705 seconds
+  Import took 0.139480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Sprites/goblinIcon.png
+  artifactKey: Guid(03e76e0a13aa72e4cb46fa0c48c32ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/goblinIcon.png using Guid(03e76e0a13aa72e4cb46fa0c48c32ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872c066ae624462a6de7941682726eb3') in 0.017423 seconds
+  Import took 0.021198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Sprites/goblin.svg
+  artifactKey: Guid(ed060754d3d37db43a006d4a786c2d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/goblin.svg using Guid(ed060754d3d37db43a006d4a786c2d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3630f6402adf46fe3d7732d92b1b66b') in 0.011442 seconds
+  Import took 0.015142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Sprites/background_normal.png
+  artifactKey: Guid(4eee1b9c4c14da44ab59effc9fcc2220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/background_normal.png using Guid(4eee1b9c4c14da44ab59effc9fcc2220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888420672af65811fd447b14bbd49386') in 0.019398 seconds
+  Import took 0.023752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Sprites/bombIcon.png
+  artifactKey: Guid(2ef778200bd17f3469ba8165d4d9ed03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bombIcon.png using Guid(2ef778200bd17f3469ba8165d4d9ed03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4aa24266b7b643bcbff5acdd09a936a') in 0.013213 seconds
+  Import took 0.017089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Sprites/mouths.png
+  artifactKey: Guid(1f12b4d609c9b174fa948a710a813dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mouths.png using Guid(1f12b4d609c9b174fa948a710a813dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee1732961f6eb405498989d61c901508') in 0.024690 seconds
+  Import took 0.028235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Sprites/menu/menubuttons__0000_turoial.png
+  artifactKey: Guid(52b95ee7ef8034047876386f20017683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/menu/menubuttons__0000_turoial.png using Guid(52b95ee7ef8034047876386f20017683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f264ed3ca3d94b3f8ba1a8dd8e3213f4') in 0.010408 seconds
+  Import took 0.014039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Sprites/solid.png
+  artifactKey: Guid(02ab4a289bfb3454dae62a9f386c3bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/solid.png using Guid(02ab4a289bfb3454dae62a9f386c3bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e542f687b5962a9d65a470bfb47346f') in 0.012370 seconds
+  Import took 0.016524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Sprites/destructedShelf.png
+  artifactKey: Guid(6b38d54af4a6e984498520f4da1b5cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/destructedShelf.png using Guid(6b38d54af4a6e984498520f4da1b5cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de21cdf4a93b85971e60f2ead0e21b0') in 0.026648 seconds
+  Import took 0.030281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Sprites/menu/title.png
+  artifactKey: Guid(7d503d5837809c94f8e0d876550e5c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/menu/title.png using Guid(7d503d5837809c94f8e0d876550e5c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c465eeeade3531c52f1dd2245ffa471d') in 0.020258 seconds
+  Import took 0.023917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Sprites/granpa.svg
+  artifactKey: Guid(1d3066adafe82a8428e8079d674ceb46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/granpa.svg using Guid(1d3066adafe82a8428e8079d674ceb46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485e03e7a8b2c8973f5768d1ab8f8802') in 0.011852 seconds
+  Import took 0.015912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Sprites/bombTop.svg
+  artifactKey: Guid(7b62b76831fb24347a94d12b38561744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bombTop.svg using Guid(7b62b76831fb24347a94d12b38561744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb59aac5936a830af4174aac9f74d4e8') in 0.019099 seconds
+  Import took 0.022865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sprites/menu/menubuttons__0001_exit.png
+  artifactKey: Guid(1ac52e39f87172046b38b9db6081d264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/menu/menubuttons__0001_exit.png using Guid(1ac52e39f87172046b38b9db6081d264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22bc5ca75f8c04a1f492ade565b12d6d') in 0.015761 seconds
+  Import took 0.019521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Sprites/shelf.svg
+  artifactKey: Guid(ebe140b3d7dde44468f325a36a286b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/shelf.svg using Guid(ebe140b3d7dde44468f325a36a286b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ae3f27fe8ecddf37a1cf35fe79fdbb2') in 0.017871 seconds
+  Import took 0.021463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Sprites/background.png
+  artifactKey: Guid(b3d3ad396f46ccb488165b4b406c3659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/background.png using Guid(b3d3ad396f46ccb488165b4b406c3659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47352712ec52c4042dba49f3b9f28105') in 0.004661 seconds
+  Import took 0.008331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Sprites/menu/menubuttons__0002_start.png
+  artifactKey: Guid(e95b97936c6034b4ba189e872686ae22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/menu/menubuttons__0002_start.png using Guid(e95b97936c6034b4ba189e872686ae22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe1c2678d1bc0fe17d96a44eaf2fa1d') in 0.008766 seconds
+  Import took 0.012376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.227711 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd7b845aca0cc719472ed524814b5b5') in 0.019532 seconds
+  Import took 0.023370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.666621 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf23e401d857754b5d6523014544b85b') in 0.019885 seconds
+  Import took 0.024312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.817509 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514162802752649a7e6ed1209a6d0e75') in 0.021258 seconds
+  Import took 0.025255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.810842 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f422840ad0f3b1d0f8fd05871a6d3d92') in 0.019670 seconds
+  Import took 0.023593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.813343 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08dbec17722a74c1812f3482b4c3281f') in 0.021445 seconds
+  Import took 0.025554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.393097 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f424a1e006d19615cedb458d69dcc9d2') in 0.020075 seconds
+  Import took 0.023981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.676002 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f0b1aa36b52682a3464605e1d03a9c1') in 0.020526 seconds
+  Import took 0.024546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.604849 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e035290826c22a72f4c971ba241a32c4') in 0.023099 seconds
+  Import took 0.027356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.927870 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aaede788798b211d565a755ea585687') in 0.020499 seconds
+  Import took 0.024400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.159498 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97d581db24fa382293f843925acda31') in 0.020029 seconds
+  Import took 0.025825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.411842 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eddca4147fc52942d6380250543f3427') in 0.019967 seconds
+  Import took 0.024172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.079912 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ecbf917f70dcfbc153c33e2c612ee1a') in 0.020591 seconds
+  Import took 0.024594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.547132 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd664b7b2c2c8cbefb031b68b7aece946') in 0.021193 seconds
+  Import took 0.025114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.380995 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc100c091c04e7d8017c45bed6af16cb') in 0.019987 seconds
+  Import took 0.023881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.177447 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc54b9932e52ca9e5f2ac524dedeecf7') in 0.020088 seconds
+  Import took 0.024110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.200880 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f010692cb28ae560dd00ddb354f94b9') in 0.019984 seconds
+  Import took 0.024290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.860968 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca1468b7568603ff4916a29ed2e693c') in 0.020100 seconds
+  Import took 0.024855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.837521 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af52dd230f0d0ebb0142a6b9119f073f') in 0.021988 seconds
+  Import took 0.025973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.674733 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc0ba1f2e27da8a6b939d14c59d259c') in 0.020547 seconds
+  Import took 0.025421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.512477 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5b45e1e247e5e908e18549f5de1be60') in 0.019674 seconds
+  Import took 0.024227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.039323 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '079a7bde17d1213a09f05113bff0ef01') in 0.021142 seconds
+  Import took 0.025337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.981977 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700ccd0dcb761dec84a39151c65c45b9') in 0.020244 seconds
+  Import took 0.024165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.605858 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5426205cda914fd5043f18d1e0ece48') in 0.021223 seconds
+  Import took 0.025223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.017261 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cb0a0a453ee99ba41c9631e5bb905f5') in 0.020429 seconds
+  Import took 0.024607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.249265 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88fb4e0304e513f7a2974cb1aec0de38') in 0.020549 seconds
+  Import took 0.024466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.597730 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4525792ee8e7a8b7c63db732ba854369') in 0.020042 seconds
+  Import took 0.023979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.965625 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9a3a679e2ecfa12e698b77d41e043e') in 0.020080 seconds
+  Import took 0.024162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.401798 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14061051f32ddb6eb658b5d17598e706') in 0.022165 seconds
+  Import took 0.026142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.196480 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da5f4566cde84e0bb3369d1fac7a79b') in 0.020801 seconds
+  Import took 0.025550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.258444 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba6706df45e3e7621f24a5cfa49a8fc9') in 0.020042 seconds
+  Import took 0.024811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.600425 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b572dc86302375ad0decc2530741e35e') in 0.019992 seconds
+  Import took 0.024472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.646043 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba7ffebfa6ccff12a997c8208b8e6a1') in 0.021922 seconds
+  Import took 0.025847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.229012 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a674c2b8b4d920d6a38e6b88cb2a962') in 0.020997 seconds
+  Import took 0.025040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.985956 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4cad6f89da6206aa6de3e3ddd657fd4') in 0.020726 seconds
+  Import took 0.024747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.163111 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68f3bfaf95da8e1054afb745e321ed80') in 0.020279 seconds
+  Import took 0.024278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.783275 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b7ca0b69612f93bd98c177342d7b65d') in 0.022041 seconds
+  Import took 0.026109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.264192 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e146dc4ef8fb4088a0e50ff74653c672') in 0.021387 seconds
+  Import took 0.025419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.805733 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1744a5ac10a8cd05a459e9258d81416') in 0.019958 seconds
+  Import took 0.023795 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001618 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.740 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3740.
+Total: 2.085600 ms (FindLiveObjects: 0.323500 ms CreateObjectMapping: 0.142100 ms MarkObjects: 1.596300 ms  DeleteObjects: 0.022400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.038195 seconds.
+  path: Assets/Prefabs/Necesarry/_Canvas.prefab
+  artifactKey: Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Necesarry/_Canvas.prefab using Guid(77f7642e4d3f77640b7718cc0a336c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a30f05656d8517da0458833fa5a35f5') in 0.070038 seconds
+  Import took 0.074449 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001661 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.714 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3743.
+Total: 2.417400 ms (FindLiveObjects: 0.283700 ms CreateObjectMapping: 0.134200 ms MarkObjects: 1.971000 ms  DeleteObjects: 0.027500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001645 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.718 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3746.
+Total: 2.410800 ms (FindLiveObjects: 0.349100 ms CreateObjectMapping: 0.142800 ms MarkObjects: 1.897700 ms  DeleteObjects: 0.020000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001617 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.704 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3749.
+Total: 2.396400 ms (FindLiveObjects: 0.358400 ms CreateObjectMapping: 0.158200 ms MarkObjects: 1.860000 ms  DeleteObjects: 0.018600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001585 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3752.
+Total: 2.665000 ms (FindLiveObjects: 0.391100 ms CreateObjectMapping: 0.183800 ms MarkObjects: 2.068500 ms  DeleteObjects: 0.021000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.718 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3755.
+Total: 3.398000 ms (FindLiveObjects: 0.508900 ms CreateObjectMapping: 0.223900 ms MarkObjects: 2.645200 ms  DeleteObjects: 0.019400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001716 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.717 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3758.
+Total: 2.082000 ms (FindLiveObjects: 0.284500 ms CreateObjectMapping: 0.126300 ms MarkObjects: 1.655300 ms  DeleteObjects: 0.015000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001587 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.716 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3761.
+Total: 2.303300 ms (FindLiveObjects: 0.308600 ms CreateObjectMapping: 0.162700 ms MarkObjects: 1.813800 ms  DeleteObjects: 0.017400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -17,7 +17,7 @@ public class UIHandler : Singleton<UIHandler>
     [SerializeField]
     GameObject scoreSection;
     [SerializeField]
-    TextMeshProUGUI scoreGnomes, scoreBombs, score;
+    TextMeshProUGUI scoreGnomes, scoreBombs,scoreDestruction,scoreTime,pointsGoblins,pointsBombs,pointsDestroyedObjects,pointsTime,totalScore;
 
     private void Start()
     {
@@ -41,7 +41,7 @@ public class UIHandler : Singleton<UIHandler>
 
 
         int finalScore = Timer.Instance.getTimeScore() + Score.Instance.Amount;
-        ShowFinalScore(BombsAndGoblinsTracker.Instance.CollectedGoblins, BombsAndGoblinsTracker.Instance.TotalGoblins, bombs.Length,finalScore);
+        ShowFinalScore(BombsAndGoblinsTracker.Instance.CollectedGoblins, BombsAndGoblinsTracker.Instance.TotalGoblins, bombs.Length,finalScore,Score.Instance.GetObjectsDestroyed(), Timer.Instance.getTime);
     }
 
 
@@ -82,14 +82,32 @@ public class UIHandler : Singleton<UIHandler>
         }
     }
 
-    public void ShowFinalScore(int gnomesCollected, int gnomesMax, int bombsLeft, int scoreFinal)
+    public void ShowFinalScore(int gnomesCollected, int gnomesMax, int bombsLeft, int scoreFinal, int objectsDestroyed, int timeTaken)
     {
         scoreSection.SetActive(true);
         scoreGnomes.text = gnomesCollected + " / " + gnomesMax + " Gnomes saved";
         scoreBombs.text = bombsLeft + " bombs left";
-        score.text = scoreFinal.ToString();
+        scoreDestruction.text = "Destroyed " + objectsDestroyed + " objects";
+        scoreTime.text = "in " + timeTaken + " seconds";
+
+        int score = Score.Instance.PointsFromGoblins;
+        setScoreColor(score, pointsGoblins);
+        pointsGoblins.text = score.ToString();
+
+        totalScore.text = scoreFinal.ToString();
     }
 
+    private void setScoreColor(int score, TextMeshProUGUI text)
+    {
+        if (score < 0)
+        {
+            text.color = Color.red;
+        }
+        else
+        {
+            text.color = Color.white;
+        }
+    }
     public void ReturnToMenue()
     {
         SceneManager.LoadScene(StartSceneName);

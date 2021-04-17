@@ -5,6 +5,7 @@ using UnityEngine;
 public class Timer : Singleton<Timer>
 {
     private float time;
+    public int getTime { get => (int)time; }
 
     protected override void Awake()
     {
@@ -24,4 +25,5 @@ public class Timer : Singleton<Timer>
         Debug.Log("Time Score : " + finalTime);
         return (int)finalTime;
     }
+
 }

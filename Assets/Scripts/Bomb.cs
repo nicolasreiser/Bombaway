@@ -97,6 +97,7 @@ public class Bomb : MonoBehaviour, IExplodingElement, IPickupable
         BombsAndGoblinsTracker.Instance.RemoveBomb();
     }
 
+    
     private void OnDrawGizmos()
     {
         Gizmos.DrawWireSphere(transform.position, explosionRadius);
@@ -131,4 +132,5 @@ public class Bomb : MonoBehaviour, IExplodingElement, IPickupable
 
         return transform;
     }
+    
 }

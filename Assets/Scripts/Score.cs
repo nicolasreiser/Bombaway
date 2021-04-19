@@ -28,7 +28,6 @@ public class Score : Singleton<Score>
     {
         pointsFromDetonatedBombs += amount;
         currentScore += amount;
-        Debug.Log("Added " + amount + " points!");
 
     }
 
@@ -37,20 +36,17 @@ public class Score : Singleton<Score>
         pointsFromGoblins += amount;
         currentScore += amount;
 
-        Debug.Log("Added " + amount + " points!");
     }
     public void AddKilledGoblin(int amount)
     {
         pointsFromKilledGoblins += amount;
         currentScore += amount;
-        Debug.Log("Added " + amount + " points!");
 
     }
     public void AddBookShelves(int amount)
     {
         pointsFromBookshelves += amount;
         currentScore += amount;
-        Debug.Log("Added " + amount + " points!");
 
     }
     public int GetObjectsDestroyed()

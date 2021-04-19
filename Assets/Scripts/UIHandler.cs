@@ -94,7 +94,23 @@ public class UIHandler : Singleton<UIHandler>
         setScoreColor(score, pointsGoblins);
         pointsGoblins.text = score.ToString();
 
+        score = Score.Instance.PointsFromDetonatedBombs;
+        setScoreColor(score, pointsBombs);
+        pointsBombs.text = score.ToString();
+
+        score = Score.Instance.PointsFromBookshelves;
+        Debug.Log("Destroyed objects score : " + score);
+        setScoreColor(score, pointsDestroyedObjects);
+        pointsDestroyedObjects.text = score.ToString();
+
+        setScoreColor(scoreFinal, totalScore);
         totalScore.text = scoreFinal.ToString();
+
+        score = Timer.Instance.getTimeScore();
+        setScoreColor(score, pointsTime);
+        pointsTime.text = score.ToString();
+
+
     }
 
     private void setScoreColor(int score, TextMeshProUGUI text)
